@@ -1,0 +1,5 @@
+message: Hello from default github
+message-2: test
+spring:
+  profiles:
+    active: production
